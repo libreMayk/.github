@@ -8,7 +8,7 @@ Currently we're working on:
 | [maykbot-ts](https://github.com/libreMayk/maykbot-ts) | A Discord bot that provides information about Maunulan Yhteiskoulu, food menu, HSL info etc.                                  | Development |
 | [ruoka-rs](https://github.com/libreMayk/ruoka-rs)     | CLI tool to quickly fetch the food menu from the [mayk.fi](https://www.mayk.fi/tietoa-meista/ruokailu) website.               | Development |
 | maykAPI                                               | A REST API that allows people to access information about Maunulan Yhteiskoulu, such as food menu, events, bus schedule, etc. |  Proposed   |
-| libreMayk.fi                                          | And of course, the main website of libreMayk.                                                                                 |  Proposed   |
+| libreMayk.fi(?)                                          | And of course, the main website of libreMayk.                                                                                 |  Proposed   |
 
 ## More
 
